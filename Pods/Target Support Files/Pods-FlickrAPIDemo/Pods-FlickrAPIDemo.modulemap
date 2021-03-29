@@ -1,0 +1,6 @@
+framework module Pods_FlickrAPIDemo {
+  umbrella header "Pods-FlickrAPIDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
