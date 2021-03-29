@@ -62,7 +62,7 @@
             </objects>
             <point key="canvasLocation" x="1005.7971014492755" y="91.741071428571431"/>
         </scene>
-        <!--Favorite View Controller-->
+        <!--我的最愛-->
         <scene sceneID="edt-GF-dXB">
             <objects>
                 <viewController id="Q9v-R9-II8" customClass="FavoriteViewController" customModule="FlickrAPIDemo" customModuleProvider="target" sceneMemberID="viewController">
@@ -72,7 +72,7 @@
                         <viewLayoutGuide key="safeArea" id="m2J-9U-07v"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <navigationItem key="navigationItem" id="Q5m-H3-a9M"/>
+                    <navigationItem key="navigationItem" title="我的最愛" id="Q5m-H3-a9M"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="PDW-m2-gxZ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>

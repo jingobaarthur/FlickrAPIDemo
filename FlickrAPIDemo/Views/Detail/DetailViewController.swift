@@ -69,7 +69,6 @@ class DetailViewController: BaseViewController {
         CoreDataHelper.shared.completedDelete = { [weak self](id)in
             guard let strongSelf = self else {return}
             strongSelf.collectionView.reload {}
-            //strongSelf.collectionView.reloadItems(at: <#T##[IndexPath]#>)
         }
     }
     deinit {
